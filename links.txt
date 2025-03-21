@@ -1,0 +1,37 @@
+redcored videos awk sed command
+https://drive.google.com/drive/folders/1CY6TtLaltXC-kPJ32e9iFFlPh2p6r4yY?usp=drive_link
+
+https://www.redhat.com/wapps/ugc/register.html?_flowId=register-flow&_flowExecutionKey=e1s1
+https://www.redhat.com/wapps/ugc/register.html?_flowId=register-flow&_flowExecutionKey=e1s1
+https://docs.google.com/forms/d/e/1FAIpQLSeHoLGfYQTmJqOYsCIm5vGM1bZErBgcalM3EV10HKobwdAM6A/viewform?usp=header
+
+https://www.redhat.com/en/services/training/red-hat-academy
+
+https://repo.almalinux.org/almalinux/9/AppStream/x86_64/os
+https://repo.almalinux.org/almalinux/9/BaseOS/x86_64/os
+
+
+Process Management Recorded sessions.
+https://drive.google.com/drive/folders/1hDD2-_BbJ39oHsr-Qqa_GB4iLMGKQpyj?usp=drive_link
+
+Networking videos.
+https://drive.google.com/drive/folders/1xcRbItrjKF5HfcGDfOlZ46ZMC88VPiy-?usp=drive_link
+
+selinux recored sessions
+https://drive.google.com/drive/folders/1HU9Xrsu-MtxoyckFNtuVl9d637ecvN8U?usp=drive_link
+
+security related videos.
+https://drive.google.com/drive/folders/1imxbkvNhaS87gp5Gl9yYcI_3skgKPbv9?usp=drive_link
+
+proxy
+https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/
+
+MariaDB
+https://docs.redhat.com/fr/documentation/red_hat_enterprise_linux/9/html/configuring_and_using_database_servers/backing-up-mariadb-data_using-mariadb#performing-file-system-backup_backing-up-mariadb-data
+
+Ansible setup
+https://medium.com/@priyajoshi03082003/what-is-ansible-how-to-install-and-configure-ansible-on-rhel-9-bdac3168de14
+
+ansible
+https://github.com/sunilkumar0633/apache_role.git
+httpsgithub.comsunilkumar0633haproxy_role.git

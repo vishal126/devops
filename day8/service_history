@@ -1,0 +1,40 @@
+  138  systemctl is-active sshd.service
+  139  systemctl stop sshd.service 
+  140  systemctl status sshd.service 
+  141  systemctl restart sshd.service 
+  142  systemctl status sshd.service 
+  143  systemctl reload sshd.service 
+  144  systemctl status sshd.service 
+  145  ps -ef | grep -q 2921
+  146  systemctl disable sshd
+  147  systemctl enable sshd
+  148  ls /etc/systemd/system/multi-user.target.wants
+  149  systemctl get-default 
+  150  systemctl set-default multi-user.target 
+  151  ls -l /etc/systemd/system
+  152  ls -l /etc/systemd/system/multi-user.target.wants/
+  153  touch abc.txt
+  154  ls -l abc.txt 
+  155  su - user1
+  156  ln abc.txt /abc.txt
+  157  chmod 666 abc.txt 
+  158  echo "hello techno"
+  159  echo "hello techno" > abc.txt 
+  160  su - user1
+  161  systemctl list-unit-files | grep enabled
+  162  systemctl list-unit-files --state=enabled
+  163  systemctl list-unit-files --state=running
+  164  history 
+  165  history | tail -33 
+  166  history | tail -33  >/service_history
+  167  init  6
+  168  systemctl set-default graphical.target 
+  169  systemctl list-dependencies sshd
+  170  systemctl status firewalld.service 
+  171  systemctl stop firewalld.service 
+  172  systemctl mask firewalld.service 
+  173  systemctl stop firewalld.service 
+  174  systemctl status firewalld.service 
+  175  systemctl start  firewalld
+  176  systemctl unmask firewalld.service 
+  177  history | tail -40  >/service_history

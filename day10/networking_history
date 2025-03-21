@@ -1,0 +1,46 @@
+    1  lsblk
+    2  vim mn1.sh
+    3  chmod a+x mn1.sh 
+    4  sh ./mn1.sh 
+    5  ifconfig 
+    6  init 0
+    7  ifconfig 
+    8  exit
+    9  ifconfig 
+   10  ping www.google.com
+   11  route -n
+   12  ping 192.168.172.136
+   13  ifconfig 
+   14  nmcli device 
+   15  nmcli device show 
+   16  nmcli connection show 
+   17  nmcli connection down ens160 
+   18  nmcli connection up ens160 
+   19  ifconfig 
+   20  nmcli connection add type ethernet ifname ens160 con-name techno ipv4.addresses 192.168.172.180/24 ipv4.gateway 192.168.172.2 ipv4.dns 192.168.172.2 ipv4.method static
+   21  nmcli connection show 
+   22  nmcli connection up techno 
+   23  ifconfig 
+   24  ping www.google.com
+   25  nmcli connection modify techno ipv4.addresses 192.168.172.200/24
+   26  ifconfig 
+   27  nmcli connection down techno 
+   28  nmcli connection up techno 
+   29  ifconfig 
+   30  nmcli connection show 
+   31  ifconfig 
+   32  nmcli connection down techno 
+   33  nmcli connection up techno 
+   34  ifconfig 
+   35  bash
+   36  ifconfig 
+   37  nmcli connection up ens160 
+   38  ifconfig 
+   39  nmcli connection up ens160 
+   40  ifconfig 
+   41  ping 192.168.164.146
+   42  history 
+   43  nmcli connection down ens160 
+   44  nmcli connection up ens160 
+   45  history 
+   46  history >/networking_histroy
