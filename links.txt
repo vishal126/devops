@@ -35,3 +35,12 @@ https://medium.com/@priyajoshi03082003/what-is-ansible-how-to-install-and-config
 ansible
 https://github.com/sunilkumar0633/apache_role.git
 httpsgithub.comsunilkumar0633haproxy_role.git
+
+mobaextern
+httpsdownload.mobatek.net2502024121622306MobaXterm_Portable_v25.0.zip
+
+terraform
+https://drive.google.com/drive/folders/1CrSBF-UihwBy7cOBe42n5w4t5ik6uamK?usp=drive_link
+
+Project
+https://drive.google.com/file/d/1Je4DADyf7T2Rm6PaOZwwYFwyQ_mAU07g/view?usp=drive_link
